@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">A junior python developer from Russia</h3>
 
+[![codewars](https://www.codewars.com/users/Pundanya/badges/small)](https://www.codewars.com/users/Pundanya) 
 
 - 🔭 I’m currently working on **Telegram Drip Car Bot**
 
