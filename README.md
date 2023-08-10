@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">A junior python developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pundanya&label=Profile%20views&color=0e75b6&style=flat" alt="pundanya" /> </p>
 
 - 🔭 I’m currently working on **Telegram Drip Car Bot**
 
