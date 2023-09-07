@@ -4,8 +4,9 @@
 
 - 🔭 I’m currently working on **Telegram Drip Car Bot**
 
-- 🌱 I’m currently learning **Django, Postgres**
+- 🌱 I’m currently learning **Django, PostgreSQL**
 
+I have a dev joke, but I couldn't debug it 😭
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/yapundanya" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/yapundanya" height="30" width="40" /></a>
