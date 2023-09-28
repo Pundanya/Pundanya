@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">A junior python developer from Russia</h3>
 
-
-- 🔭 I’m currently working on **Telegram Drip Car Bot**
-
-- 🌱 I’m currently learning **Django, PostgreSQL**
-
 I have a dev joke, but I couldn't debug it 😭
 <h3 align="left">Connect with me:</h3>
 <p align="left">
